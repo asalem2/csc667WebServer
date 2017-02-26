@@ -1,0 +1,4 @@
+AuthUserFile "F:/Sfsu coursework/867/public_html/.htpasswd"
+AuthType Basic
+AuthName "I Challenge You"
+Require valid-user

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/webserver/WebServer.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Config/htpasswd.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/NotFound.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/NotModified.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/Unauthorized.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Config/HttpdConf.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/BadRequest.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/webserver/Resource.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/ServerError.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/webserver/Request.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/ResponseBase.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/webserver/Worker.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Config/MimeTypes.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/webserver/ResponseFactory.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Config/htaccess.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/Success.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/Created.java</file>
+            <file>file:/Users/NoLimitProduction/NetBeansProjects/WebServer-Ahmed-Dar/src/Response/Forbidden.java</file>
+        </group>
+    </open-files>
+</project-private>
